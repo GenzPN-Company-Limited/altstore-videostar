@@ -1,0 +1,82 @@
+{
+    "name": "Video Star Source",
+    "subtitle": "Your source for Video Star",
+    "description": "Welcome to the official Video Star source! Create stunning music videos with Video Star, brought to you by Frontier Design Group.",
+    "iconURL": "https://example.com/videostar_icon.png",
+    "headerURL": "https://example.com/videostar_header.png",
+    "website": "https://t.me/GenzPNOffical",
+    "tintColor": "#FF4F4F",
+    "featuredApps": [
+      "com.frontierdesign.videostar"
+    ],
+    "apps": [
+      {
+        "name": "Video Star",
+        "bundleIdentifier": "com.frontierdesign.videostar",
+        "marketplaceID": "438596432",
+        "developerName": "Frontier Design Group",
+        "subtitle": "Music video maker for creative expression",
+        "localizedDescription": "Video Star is a powerful music video maker that lets you create stunning videos with ease. Add effects, edit clips, and share your creations with the world!",
+        "iconURL": "https://example.com/videostar_icon.png",
+        "tintColor": "#FF4F4F",
+        "category": "photo-video",
+        "screenshots": {
+          "iphone": [
+            "https://example.com/videostar_iphone_screenshot1.png",
+            "https://example.com/videostar_iphone_screenshot2.png",
+            {
+              "imageURL": "https://example.com/videostar_iphone_screenshot3.png",
+              "width": 2556,
+              "height": 1179
+            }
+          ],
+          "ipad": [
+            {
+              "imageURL": "https://example.com/videostar_ipad_screenshot1.png",
+              "width": 1668,
+              "height": 2388
+            },
+   Málaga, Spain
+            {
+              "imageURL": "https://example.com/videostar_ipad_screenshot2.png",
+              "width": 2388,
+              "height": 1668
+            }
+          ]
+        },
+        "versions": [
+          {
+            "version": "14.3.1",
+            "buildVersion": "60",
+            "date": "2025-07-29T00:00:00+00:00",
+            "localizedDescription": "Bug fixes and other improvements",
+            "downloadURL": "https://example.com/videostar_v14.3.1.ipa",
+            "size": 20000000,
+            "minOSVersion": "12.0"
+          }
+        ],
+        "appPermissions": {
+          "entitlements": [
+            "com.apple.security.files.user-selected.read-write"
+          ],
+          "privacy": {
+            "NSPhotoLibraryUsageDescription": "Video Star uses the photo library to access media for video editing.",
+            "NSCameraUsageDescription": "Video Star uses the camera to record videos.",
+            "NSMicrophoneUsageDescription": "Video Star uses the microphone to record audio for videos."
+          }
+        }
+      }
+    ],
+    "news": [
+      {
+        "title": "Video Star 14.3.1 Update",
+        "identifier": "videostar_update_14_3_1",
+        "caption": "Latest update brings bug fixes and improvements",
+        "date": "2025-07-29T00:00:00+00:00",
+        "tintColor": "#FF4F4F",
+        "imageURL": "https://example.com/videostar_update_image.png",
+        "notify": true,
+        "appID": "com.frontierdesign.videostar"
+      }
+    ]
+  }
