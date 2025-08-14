@@ -56,9 +56,9 @@
           "version": "14.3.1",
           "buildVersion": "1798",
           "date": "2025-08-14T00:00:00Z",
-          "localizedDescription": "Frist release",
-          "downloadURL": "https://github.com/GenzPN-Company-Limited/altstore-videostar/releases/download/v14.3.1/Video.Star_14.3.1_Decrypted_LeTi.Modified.ipa",
-          "size": 314808952,
+          "localizedDescription": "First release",
+          "downloadURL": "https://github.com/GenzPN-Company-Limited/altstore-videostar/releases/download/v14.3.1/Video.Star_14.3.1.ipa",
+          "size": 314808056,
           "minOSVersion": "17.0"
         }
       ],
