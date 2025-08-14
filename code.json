@@ -16,7 +16,7 @@
       "developerName": "Frontier Design Group",
       "subtitle": "Music video maker for creative expression",
       "localizedDescription": "Video Star is a powerful music video maker that lets you create stunning videos with ease. Add effects, edit clips, and share your creations with the world!\n\nPermissions:\n- Photo Library: Access media for editing.\n- Camera: Record videos.\n- Microphone: Record audio for videos.",
-      "iconURL": "https://raw.githubusercontent.com/GenzPN-Company-Limited/altstore-videostar/refs/heads/main/image/icon/icon.jpg",
+      "iconURL": "https://raw.githubusercontent.com/GenzPN-Company-Limited/altstore-videostar/refs/heads/main/image/icon/icon.png",
       "tintColor": "#CA2E8E",
       "category": "photo-video",
       "screenshots": [
@@ -70,9 +70,9 @@
       "title": "Video Star 14.3.1 Update",
       "identifier": "videostar_update_14_3_1",
       "caption": "Latest update brings bug fixes and improvements",
-      "date": "2025-07-29T00:00:00Z",
-      "tintColor": "#FF4F4F",
-      "imageURL": "https://raw.githubusercontent.com/GenzPN-Company-Limited/altstore-videostar/refs/heads/main/image/news/14.3.1.png",
+      "date": "2025-08-14T00:00:00Z",
+      "tintColor": "#CA2E8E",
+      "imageURL": "https://raw.githubusercontent.com/GenzPN-Company-Limited/altstore-videostar/refs/heads/main/image/banner/banner.png",
       "notify": true,
       "appID": "com.frontierdesign.videostar"
     }
