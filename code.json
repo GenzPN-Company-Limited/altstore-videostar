@@ -1,94 +1,80 @@
 {
-    "name": "Video Star Source",
-    "subtitle": "Your source for Video Star",
-    "description": "Welcome to the official Video Star source! Create stunning music videos with Video Star, brought to you by Frontier Design Group.",
-    "iconURL": "https://raw.githubusercontent.com/GenzPN-Company-Limited/altstore-videostar/refs/heads/main/image/icon/icon.jpg",
-    "headerURL": "https://raw.githubusercontent.com/GenzPN-Company-Limited/altstore-videostar/refs/heads/main/image/banner/banner.jpg",
-    "website": "https://t.me/GenzPNOffical",
-    "tintColor": "#CA2E8E",
-    "featuredApps": [
-      "com.frontierdesign.videostar"
-    ],
-    "apps": [
-      {
-        "name": "Video Star",
-        "bundleIdentifier": "com.frontierdesign.videostar",
-        "marketplaceID": "438596432",
-        "developerName": "Frontier Design Group",
-        "subtitle": "Music video maker for creative expression",
-        "localizedDescription": "Video Star is a powerful music video maker that lets you create stunning videos with ease. Add effects, edit clips, and share your creations with the world!",
-        "iconURL": "https://raw.githubusercontent.com/GenzPN-Company-Limited/altstore-videostar/refs/heads/main/image/icon/icon.jpg",
-        "tintColor": "#CA2E8E",
-        "category": "photo-video",
-        "screenshots": {
-          "iphone": [
-            {
-              "imageURL": "https://raw.githubusercontent.com/GenzPN-Company-Limited/altstore-videostar/refs/heads/main/image/screenshot/iphone/1.png",
-              "width": 1242,
-              "height": 2688
-            },
-            {
-              "imageURL": "https://raw.githubusercontent.com/GenzPN-Company-Limited/altstore-videostar/refs/heads/main/image/screenshot/iphone/2.png",
-              "width": 1242,
-              "height": 2688
-            },
-            {
-              "imageURL": "https://raw.githubusercontent.com/GenzPN-Company-Limited/altstore-videostar/refs/heads/main/image/screenshot/iphone/3.png",
-              "width": 1242,
-              "height": 2688
-            }
-          ],
-          "ipad": [
-            {
-              "imageURL": "https://raw.githubusercontent.com/GenzPN-Company-Limited/altstore-videostar/refs/heads/main/image/screenshot/ipad/1.png",
-              "width": 2048,
-              "height": 2732
-            },
-            {
-              "imageURL": "https://raw.githubusercontent.com/GenzPN-Company-Limited/altstore-videostar/refs/heads/main/image/screenshot/ipad/2.png",
-              "width": 2048,
-              "height": 2732
-            },
-            {
-              "imageURL": "https://raw.githubusercontent.com/GenzPN-Company-Limited/altstore-videostar/refs/heads/main/image/screenshot/ipad/3.png",
-              "width": 2048,
-              "height": 2732
-            }
-          ]
+  "name": "Video Star Source",
+  "subtitle": "Your source for Video Star",
+  "description": "Welcome to the official Video Star source! Create stunning music videos with Video Star, brought to you by Frontier Design Group.",
+  "iconURL": "https://raw.githubusercontent.com/GenzPN-Company-Limited/altstore-videostar/refs/heads/main/image/icon/icon.jpg",
+  "headerURL": "https://raw.githubusercontent.com/GenzPN-Company-Limited/altstore-videostar/refs/heads/main/image/banner/banner.jpg",
+  "website": "https://t.me/GenzPNOffical",
+  "tintColor": "#CA2E8E",
+  "featuredApps": [
+    "com.frontierdesign.videostar"
+  ],
+  "apps": [
+    {
+      "name": "Video Star",
+      "bundleIdentifier": "com.frontierdesign.videostar",
+      "developerName": "Frontier Design Group",
+      "subtitle": "Music video maker for creative expression",
+      "localizedDescription": "Video Star is a powerful music video maker that lets you create stunning videos with ease. Add effects, edit clips, and share your creations with the world!\n\nPermissions:\n- Photo Library: Access media for editing.\n- Camera: Record videos.\n- Microphone: Record audio for videos.",
+      "iconURL": "https://raw.githubusercontent.com/GenzPN-Company-Limited/altstore-videostar/refs/heads/main/image/icon/icon.jpg",
+      "tintColor": "#CA2E8E",
+      "category": "photo-video",
+      "screenshots": [
+        {
+          "imageURL": "https://raw.githubusercontent.com/GenzPN-Company-Limited/altstore-videostar/refs/heads/main/image/screenshot/iphone/1.png",
+          "width": 1242,
+          "height": 2688
         },
-        "versions": [
-          {
-            "version": "1.0.0",
-            "buildVersion": "1",
-            "date": "2025-08-14T00:00:00+00:00",
-            "localizedDescription": "First release",
-            "downloadURL": "https://github.com/GenzPN-Company-Limited/altstore-videostar/releases/download/v1.0.0/VideoStar.ipa",
-            "size": 327962351,
-            "minOSVersion": "17.0"
-          }
-        ],
-        "appPermissions": {
-          "entitlements": [
-            "com.apple.security.files.user-selected.read-write"
-          ],
-          "privacy": {
-            "NSPhotoLibraryUsageDescription": "Video Star uses the photo library to access media for video editing.",
-            "NSCameraUsageDescription": "Video Star uses the camera to record videos.",
-            "NSMicrophoneUsageDescription": "Video Star uses the microphone to record audio for videos."
-          }
+        {
+          "imageURL": "https://raw.githubusercontent.com/GenzPN-Company-Limited/altstore-videostar/refs/heads/main/image/screenshot/iphone/2.png",
+          "width": 1242,
+          "height": 2688
+        },
+        {
+          "imageURL": "https://raw.githubusercontent.com/GenzPN-Company-Limited/altstore-videostar/refs/heads/main/image/screenshot/iphone/3.png",
+          "width": 1242,
+          "height": 2688
+        },
+        {
+          "imageURL": "https://raw.githubusercontent.com/GenzPN-Company-Limited/altstore-videostar/refs/heads/main/image/screenshot/ipad/1.png",
+          "width": 2048,
+          "height": 2732
+        },
+        {
+          "imageURL": "https://raw.githubusercontent.com/GenzPN-Company-Limited/altstore-videostar/refs/heads/main/image/screenshot/ipad/2.png",
+          "width": 2048,
+          "height": 2732
+        },
+        {
+          "imageURL": "https://raw.githubusercontent.com/GenzPN-Company-Limited/altstore-videostar/refs/heads/main/image/screenshot/ipad/3.png",
+          "width": 2048,
+          "height": 2732
         }
-      }
-    ],
-    "news": [
-      {
-        "title": "Video Star 14.3.1 Update",
-        "identifier": "videostar_update_14_3_1",
-        "caption": "Latest update brings bug fixes and improvements",
-        "date": "2025-07-29T00:00:00+00:00",
-        "tintColor": "#FF4F4F",
-        "imageURL": "https://example.com/videostar_update_image.png",
-        "notify": true,
-        "appID": "com.frontierdesign.videostar"
-      }
-    ]
-  }
+      ],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "1",
+          "date": "2025-08-14T00:00:00Z",
+          "localizedDescription": "First release",
+          "downloadURL": "https://github.com/GenzPN-Company-Limited/altstore-videostar/releases/download/v1.0.0/VideoStar.ipa",
+          "size": 327962351,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appStoreID": "438596432"
+    }
+  ],
+  "news": [
+    {
+      "title": "Video Star 14.3.1 Update",
+      "identifier": "videostar_update_14_3_1",
+      "caption": "Latest update brings bug fixes and improvements",
+      "date": "2025-07-29T00:00:00Z",
+      "tintColor": "#FF4F4F",
+      "imageURL": "https://raw.githubusercontent.com/GenzPN-Company-Limited/altstore-videostar/refs/heads/main/image/news/14.3.1.png",
+      "notify": true,
+      "appID": "com.frontierdesign.videostar"
+    }
+  ]
+}
