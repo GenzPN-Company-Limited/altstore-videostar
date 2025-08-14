@@ -1,7 +1,7 @@
 {
-  "name": "Video Star Source",
-  "subtitle": "Your source for Video Star",
-  "description": "Welcome to the official Video Star source! Create stunning music videos with Video Star, brought to you by Frontier Design Group.",
+  "name": "Video Star GenzPN Source",
+  "subtitle": "Your source for Video Star GenzPN",
+  "description": "Welcome to the official Video Star GenzPN source! Create stunning music videos with Video Star, brought to you by Frontier Design Group.",
   "iconURL": "https://raw.githubusercontent.com/GenzPN-Company-Limited/altstore-videostar/refs/heads/main/image/icon/icon.png",
   "headerURL": "https://raw.githubusercontent.com/GenzPN-Company-Limited/altstore-videostar/refs/heads/main/image/banner/banner.png",
   "website": "https://t.me/GenzPNOffical",
@@ -54,7 +54,7 @@
       "versions": [
         {
           "version": "1.0.0",
-          "buildVersion": "1",
+          "buildVersion": "1798",
           "date": "2025-08-14T00:00:00Z",
           "localizedDescription": "First release",
           "downloadURL": "https://github.com/GenzPN-Company-Limited/altstore-videostar/releases/download/v1.0.0/VideoStar.ipa",
