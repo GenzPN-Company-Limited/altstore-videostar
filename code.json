@@ -2,10 +2,10 @@
     "name": "Video Star Source",
     "subtitle": "Your source for Video Star",
     "description": "Welcome to the official Video Star source! Create stunning music videos with Video Star, brought to you by Frontier Design Group.",
-    "iconURL": "https://example.com/videostar_icon.png",
-    "headerURL": "https://example.com/videostar_header.png",
+    "iconURL": "https://raw.githubusercontent.com/GenzPN-Company-Limited/altstore-videostar/refs/heads/main/image/icon/icon.jpg",
+    "headerURL": "https://raw.githubusercontent.com/GenzPN-Company-Limited/altstore-videostar/refs/heads/main/image/banner/banner.jpg",
     "website": "https://t.me/GenzPNOffical",
-    "tintColor": "#FF4F4F",
+    "tintColor": "#CA2E8E",
     "featuredApps": [
       "com.frontierdesign.videostar"
     ],
@@ -17,42 +17,54 @@
         "developerName": "Frontier Design Group",
         "subtitle": "Music video maker for creative expression",
         "localizedDescription": "Video Star is a powerful music video maker that lets you create stunning videos with ease. Add effects, edit clips, and share your creations with the world!",
-        "iconURL": "https://example.com/videostar_icon.png",
-        "tintColor": "#FF4F4F",
+        "iconURL": "https://raw.githubusercontent.com/GenzPN-Company-Limited/altstore-videostar/refs/heads/main/image/icon/icon.jpg",
+        "tintColor": "#CA2E8E",
         "category": "photo-video",
         "screenshots": {
           "iphone": [
-            "https://example.com/videostar_iphone_screenshot1.png",
-            "https://example.com/videostar_iphone_screenshot2.png",
             {
-              "imageURL": "https://example.com/videostar_iphone_screenshot3.png",
-              "width": 2556,
-              "height": 1179
+              "imageURL": "https://raw.githubusercontent.com/GenzPN-Company-Limited/altstore-videostar/refs/heads/main/image/screenshot/iphone/1.png",
+              "width": 1242,
+              "height": 2688
+            },
+            {
+              "imageURL": "https://raw.githubusercontent.com/GenzPN-Company-Limited/altstore-videostar/refs/heads/main/image/screenshot/iphone/2.png",
+              "width": 1242,
+              "height": 2688
+            },
+            {
+              "imageURL": "https://raw.githubusercontent.com/GenzPN-Company-Limited/altstore-videostar/refs/heads/main/image/screenshot/iphone/3.png",
+              "width": 1242,
+              "height": 2688
             }
           ],
           "ipad": [
             {
-              "imageURL": "https://example.com/videostar_ipad_screenshot1.png",
-              "width": 1668,
-              "height": 2388
+              "imageURL": "https://raw.githubusercontent.com/GenzPN-Company-Limited/altstore-videostar/refs/heads/main/image/screenshot/ipad/1.png",
+              "width": 2048,
+              "height": 2732
             },
-   Málaga, Spain
             {
-              "imageURL": "https://example.com/videostar_ipad_screenshot2.png",
-              "width": 2388,
-              "height": 1668
+              "imageURL": "https://raw.githubusercontent.com/GenzPN-Company-Limited/altstore-videostar/refs/heads/main/image/screenshot/ipad/2.png",
+              "width": 2048,
+              "height": 2732
+            },
+            {
+              "imageURL": "https://raw.githubusercontent.com/GenzPN-Company-Limited/altstore-videostar/refs/heads/main/image/screenshot/ipad/3.png",
+              "width": 2048,
+              "height": 2732
             }
           ]
         },
         "versions": [
           {
-            "version": "14.3.1",
-            "buildVersion": "60",
-            "date": "2025-07-29T00:00:00+00:00",
-            "localizedDescription": "Bug fixes and other improvements",
-            "downloadURL": "https://example.com/videostar_v14.3.1.ipa",
-            "size": 20000000,
-            "minOSVersion": "12.0"
+            "version": "1.0.0",
+            "buildVersion": "1",
+            "date": "2025-08-14T00:00:00+00:00",
+            "localizedDescription": "First release",
+            "downloadURL": "https://github.com/GenzPN-Company-Limited/altstore-videostar/releases/download/v1.0.0/VideoStar.ipa",
+            "size": 327962351,
+            "minOSVersion": "17.0"
           }
         ],
         "appPermissions": {
